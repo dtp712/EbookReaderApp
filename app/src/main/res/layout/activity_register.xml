@@ -19,7 +19,7 @@
             android:src="@drawable/ic_back_white"
             android:background="@android:color/transparent"
             android:layout_margin="10dp"
-            android:padding="5dp" /> I
+            android:padding="5dp" />
 
         <ImageView
             android:id="@+id/iconIv"
