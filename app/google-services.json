@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449345299435",
+    "project_id": "ebook-app-e21f5",
+    "storage_bucket": "ebook-app-e21f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449345299435:android:7629183b703a43d6546fae",
+        "android_client_info": {
+          "package_name": "com.example.ebookreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0ykIn_yED_kDNod6jRquxHoM04UDku8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
