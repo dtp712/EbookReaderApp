@@ -92,8 +92,5 @@
             android:tint="@color/white"
             app:fabCustomSize="50dp"
             android:backgroundTint="@color/purple_500"/>
-
-
     </LinearLayout>
-
 </RelativeLayout>
